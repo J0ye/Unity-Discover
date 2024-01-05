@@ -1796,6 +1796,7 @@ MonoBehaviour:
   requestFaceTrackingPermissionOnStartup: 1
   requestEyeTrackingPermissionOnStartup: 1
   requestScenePermissionOnStartup: 0
+  requestRecordAudioPermissionOnStartup: 0
   _localDimming: 0
   _trackingOriginType: 1
   usePositionTracking: 1
@@ -1805,7 +1806,6 @@ MonoBehaviour:
   AllowRecenter: 1
   LateControllerUpdate: 1
   LateLatching: 1
-  _readOnlyControllerDrivenHandPosesType: 0
   controllerDrivenHandPosesType: 0
 --- !u!114 &-934479987813566617
 MonoBehaviour:
