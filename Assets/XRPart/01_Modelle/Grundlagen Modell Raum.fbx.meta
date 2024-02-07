@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 3c6c8e6274e374f4a8e3b40f9f44b12e
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Louis-Pasteur-Strasse13-16
+    second: {fileID: 2100000, guid: 63c2b5e27d4bf4a4a9d8b7fe76b0dde1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Louis-Pasteur-Strasse13-16 Dach
+    second: {fileID: 2100000, guid: 77dc5bf202d4641b897570e46adad1d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muelhaus2
+    second: {fileID: 2100000, guid: e4a1c341f085d4ad8a9bcdcbd3891d80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mueltonen1
+    second: {fileID: 2100000, guid: dfe2a16fc9f964c40aa9973ff384f264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "R1R-Galileistra\xDFe9-12"
+    second: {fileID: 2100000, guid: 40c8b73e0783640fb9709549fa0207f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "R1R-Galileistra\xDFe9-12 Dach"
+    second: {fileID: 2100000, guid: f128c0738c3d649349fa09c2556e03ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R1R-Lomonossowstrasse1-4
+    second: {fileID: 2100000, guid: 9c1552320cbfa4184a9f059e87b48e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R1R-Lomonossowstrasse1-4 Dach
+    second: {fileID: 2100000, guid: 15d46e2b0f693494aa386c2141f50d8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R1R-Lomonossowstrasse5-8
+    second: {fileID: 2100000, guid: 26d7569ad038842db9bcc4bcf1ca165e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R1R-Lomonossowstrasse5-8 Dach
+    second: {fileID: 2100000, guid: 2924594dd3a864bbcbb338c08413c55d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R1R-Lomonossowstrasse9-12
+    second: {fileID: 2100000, guid: d0f702ccc700f435caac10a28612787f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R1R-Lomonossowstrasse9-12 dach
+    second: {fileID: 2100000, guid: 4e2c5bb68ab144bc9a3e3d7f6ce2570b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stronkasten
+    second: {fileID: 2100000, guid: 388fe3c70f28e4c39a1aa52520cb829d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ter_104.001
+    second: {fileID: 2100000, guid: e5e6011a4158a43e996321b69c7553c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ter_110.001
+    second: {fileID: 2100000, guid: b96490ddfb8784d02b3577a8b484d8ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ter_115.002
+    second: {fileID: 2100000, guid: 9f3dda3ced1424f2c8eeecb9212a299f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ter_19.002
+    second: {fileID: 2100000, guid: 07a673d0fc1344b1087f5ef48789f1c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ter_20.001
+    second: {fileID: 2100000, guid: 07835413b15cf404eae59b43c0877767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ter_39.001
+    second: {fileID: 2100000, guid: 6eb50fa3b00e94736aa07292b7a11606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ter_51.001
+    second: {fileID: 2100000, guid: 7f0514cd5c1824af5a9106be7fbb768e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ter_58.002
+    second: {fileID: 2100000, guid: 89a7672c0f5004b9087a54acf49275db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ter_79.002
+    second: {fileID: 2100000, guid: 0201db56676694030a6646a5f82affc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ter_85.002
+    second: {fileID: 2100000, guid: 194e3cc8f701c48b7bf9e7bf30905e58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ter_88.002
+    second: {fileID: 2100000, guid: 3cd30fb3b396b4dc19a1cb68c284e5b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ter_95.001
+    second: {fileID: 2100000, guid: 8df3d244ea4aa4e1ba559c5820e1dc9d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
